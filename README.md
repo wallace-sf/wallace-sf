@@ -9,7 +9,7 @@ Hi. My name is Wallace. I am a Software Engineer and Technology Enthusiastic wit
 
 My skills are focused to delivery robust and user-friendly software applications with 5+ years of Front-end of experience and 1 year of Back-end. I have proficiency in many technologies and programming languages including Javascript, Typescript, Node.js, React.js and scalable databases as MySQL, Postgres, Oracle, MongoDB, Redis etc. Using these technologies my objective is to create easy-to-main-applications and high valuable products.
 
-Additionally, i also have solid knowledge about the best practices of programming like DDD, Clean Architecture, SOLID and Design Patterns.In my carreri had the opportunity to work using agile methodologies as SCRUM to maintain the high-quality of teams and softwares.Please, do not hesitate to contact me. Thanks for reading.
+Additionally, i also have solid knowledge about the best practices of programming like DDD, Clean Architecture, SOLID and Design Patterns.In my career i had the opportunity to work using agile methodologies as SCRUM to maintain the high-quality of teams and softwares.Please, do not hesitate to contact me. Thanks for reading.
 
 ## ⚡Technologies
 
