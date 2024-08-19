@@ -5,11 +5,11 @@
 
 # Hi, I'm Wallace
 
-Hi. My name is Wallace. I am a Software Engineer and Technology Enthusiastic with Bachelor's Degree in Computer Science and a MBA in Software Engineering.
+Hi. My name is Wallace. I am a Software Engineer and Technology Enthusiastic with a Bachelor's Degree in Computer Science and an MBA in Software Engineering.
 
-My skills are focused to delivery robust and user-friendly software applications with 5+ years of Front-end of experience and 1 year of Back-end. I have proficiency in many technologies and programming languages including Javascript, Typescript, Node.js, React.js and scalable databases as MySQL, Postgres, Oracle, MongoDB, Redis etc. Using these technologies my objective is to create easy-to-main-applications and high valuable products.
+My skills are focused on delivering robust and user-friendly software applications with 5+ years of Front-end of experience and 1 year of Back-end. I have proficiency in many technologies and programming languages including Javascript, Typescript, Node.js, React.js, and scalable databases as MySQL, Postgres, Oracle, MongoDB, Redis etc. Using these technologies my objective is to create easy-to-main-applications and highly valuable products.
 
-Additionally, i also have solid knowledge about the best practices of programming like DDD, Clean Architecture, SOLID and Design Patterns.In my career i had the opportunity to work using agile methodologies as SCRUM to maintain the high-quality of teams and software. Please, do not hesitate to contact me. Thanks for reading.
+Additionally, I have a solid knowledge of the best programming practices, such as DDD, Clean Architecture, SOLID, and Design Patterns. In my career, I had the opportunity to work using agile methodologies as SCRUM to maintain the high quality of teams and software. Please, do not hesitate to contact me. Thanks for reading.
 
 ## ⚡Technologies
 
