@@ -48,7 +48,7 @@ Docker                  ·  AWS / Vercel       ·  CI/CD
 
 | Project | Why it matters |
 |---|---|
-| [portfolio](https://github.com/wallace-sf/portfolio) | Main project and professional showcase, currently under construction |
+| [portfolio](https://github.com/wallace-sf/portfolio) **WIP** | Main project and professional showcase |
 | [metrobi-application](https://github.com/wallace-sf/metrobi-application) | Product-oriented front-end application |
 | [uber-application-chat](https://github.com/wallace-sf/uber-application-chat) | Real-time interaction and UI flow experience |
 | [faro-energy-technical-challenge](https://github.com/wallace-sf/faro-energy-technical-challenge) | Technical challenge and problem-solving sample |
