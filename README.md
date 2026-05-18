@@ -12,7 +12,7 @@ Front-end Software Engineer focused on **React**, **TypeScript**, **Next.js**, a
 
 I build web applications with attention to maintainability, user experience, performance, accessibility and clear technical boundaries. My background is strongest on the front end, but I also work across API integration, deployment, databases and production concerns when needed.
 
-Currently, my main public project is my [portfolio](https://github.com/wallace-sf/portfolio), where I am organizing my work, technical positioning and career story for international opportunities.
+Currently, my main public project is my [portfolio](https://github.com/wallace-sf/portfolio), which is still under construction. I am using it to organize my work, technical positioning and career story for international opportunities.
 
 ---
 
@@ -20,7 +20,7 @@ Currently, my main public project is my [portfolio](https://github.com/wallace-s
 
 ### [Portfolio](https://github.com/wallace-sf/portfolio)
 
-A personal portfolio built to present my experience, selected projects and technical direction as a Front-end Software Engineer.
+A personal portfolio under active development, built to present my experience, selected projects and technical direction as a Front-end Software Engineer.
 
 It is also a practical space where I apply and document decisions around front-end architecture, maintainability, multilingual content, product presentation and deployment.
 
@@ -48,7 +48,7 @@ Docker                  ·  AWS / Vercel       ·  CI/CD
 
 | Project | Why it matters |
 |---|---|
-| [portfolio](https://github.com/wallace-sf/portfolio) | Main project and professional showcase |
+| [portfolio](https://github.com/wallace-sf/portfolio) | Main project and professional showcase, currently under construction |
 | [metrobi-application](https://github.com/wallace-sf/metrobi-application) | Product-oriented front-end application |
 | [uber-application-chat](https://github.com/wallace-sf/uber-application-chat) | Real-time interaction and UI flow experience |
 | [faro-energy-technical-challenge](https://github.com/wallace-sf/faro-energy-technical-challenge) | Technical challenge and problem-solving sample |
