@@ -70,7 +70,6 @@ Docker                  ·  AWS    ·  CI/CD    ·  Production Deployments
 | [metrobi-application](https://github.com/wallace-sf/metrobi-application) | Front-end application structure and product-oriented UI |
 | [uber-application-chat](https://github.com/wallace-sf/uber-application-chat) | Real-time/product interaction experience |
 | [faro-energy-technical-challenge](https://github.com/wallace-sf/faro-energy-technical-challenge) | Technical challenge implementation and problem solving |
-| [Application-FDTE](https://github.com/wallace-sf/Application-FDTE) | Earlier full-stack/application development experience |
 | [ag-grid-pt-br](https://github.com/wallace-sf/ag-grid-pt-br) | Open-source contribution around localization/developer tooling |
 
 ---
