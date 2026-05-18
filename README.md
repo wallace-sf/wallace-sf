@@ -1,4 +1,4 @@
-# Hi, I'm Wallace Ferreira 👋
+# Wallace Ferreira
 
 <p align="center">
   <samp>
@@ -8,11 +8,11 @@
   </samp>
 </p>
 
-**Front-end Software Engineer** focused on building scalable, accessible and product-oriented web applications with **React, TypeScript and Next.js**.
+Front-end Software Engineer focused on **React**, **TypeScript**, **Next.js**, architecture and product-oriented interfaces.
 
-I have **6+ years of professional experience** in software engineering, with a strong front-end background and hands-on experience across product development, architecture, performance, authentication flows and full-stack collaboration.
+I build web applications with attention to maintainability, user experience, performance, accessibility and clear technical boundaries. My background is strongest on the front end, but I also work across API integration, deployment, databases and production concerns when needed.
 
-Right now, my main project is my **personal portfolio** — a place where I am organizing my work, technical positioning and career story for **international opportunities**.
+Currently, my main public project is my [portfolio](https://github.com/wallace-sf/portfolio), where I am organizing my work, technical positioning and career story for international opportunities.
 
 ---
 
@@ -20,33 +20,13 @@ Right now, my main project is my **personal portfolio** — a place where I am o
 
 ### [Portfolio](https://github.com/wallace-sf/portfolio)
 
-My portfolio is the main project I am currently evolving. It represents my professional positioning as a front-end engineer and brings together my experience, projects, technical decisions and career direction.
+A personal portfolio built to present my experience, selected projects and technical direction as a Front-end Software Engineer.
 
-What this project highlights:
-
-- Modern front-end development with React, TypeScript and Next.js
-- Product-oriented UI and clear presentation of professional experience
-- Component organization, maintainability and visual polish
-- Continuous improvement focused on international opportunities
-- A practical showcase of how I communicate technical value
-
----
-
-## What I care about
-
-- Building reliable and maintainable front-end applications
-- Designing scalable component architecture and clear code boundaries
-- Improving performance, accessibility and user experience
-- Working with clean architecture, DDD, SOLID and design patterns
-- Turning business requirements into simple, valuable product experiences
-
----
-
-## Core stack
+It is also a practical space where I apply and document decisions around front-end architecture, maintainability, multilingual content, product presentation and deployment.
 
 ```txt
-TypeScript  ·  JavaScript  ·  React  ·  Next.js  ·  Node.js
-Tailwind CSS  ·  Docker  ·  AWS  ·  PostgreSQL  ·  MongoDB
+Next.js · React · TypeScript · Tailwind CSS · Turborepo · pnpm
+Clean Architecture · DDD · Supabase · Prisma · Vitest · Playwright
 ```
 
 ---
@@ -54,26 +34,28 @@ Tailwind CSS  ·  Docker  ·  AWS  ·  PostgreSQL  ·  MongoDB
 ## Technical focus
 
 ```txt
-Front-end Architecture  ·  React  ·  Next.js  ·  TypeScript
-Clean Architecture      ·  DDD    ·  SOLID    ·  Design Patterns
-Performance             ·  Accessibility      ·  UI Engineering
-Authentication          ·  JWT    ·  Cookies  ·  SSR/CSR Flows
-Docker                  ·  AWS    ·  CI/CD    ·  Production Deployments
+Front-end architecture  ·  Component design  ·  Design systems
+React                   ·  Next.js            ·  TypeScript
+Clean Architecture      ·  DDD                ·  SOLID
+Performance             ·  Accessibility      ·  Product UI
+API integration         ·  SSR / CSR flows    ·  Production readiness
+Docker                  ·  AWS / Vercel       ·  CI/CD
 ```
 
 ---
 
-## Other selected repositories
+## Selected work
 
-| Project | What it shows |
+| Project | Why it matters |
 |---|---|
-| [metrobi-application](https://github.com/wallace-sf/metrobi-application) | Front-end application structure and product-oriented UI |
-| [uber-application-chat](https://github.com/wallace-sf/uber-application-chat) | Real-time/product interaction experience |
-| [faro-energy-technical-challenge](https://github.com/wallace-sf/faro-energy-technical-challenge) | Technical challenge implementation and problem solving |
+| [portfolio](https://github.com/wallace-sf/portfolio) | Main project and professional showcase |
+| [metrobi-application](https://github.com/wallace-sf/metrobi-application) | Product-oriented front-end application |
+| [uber-application-chat](https://github.com/wallace-sf/uber-application-chat) | Real-time interaction and UI flow experience |
+| [faro-energy-technical-challenge](https://github.com/wallace-sf/faro-energy-technical-challenge) | Technical challenge and problem-solving sample |
 | [ag-grid-pt-br](https://github.com/wallace-sf/ag-grid-pt-br) | Open-source contribution around localization/developer tooling |
 
 ---
 
-## Outside of work
+## A bit more
 
 I enjoy learning, traveling, games, swimming and cinema. I also like studying how good software architecture helps teams move faster with less friction.
