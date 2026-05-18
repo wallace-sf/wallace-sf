@@ -77,12 +77,6 @@ Docker                  ·  AWS    ·  CI/CD    ·  Production Deployments
 
 ---
 
-## GitHub stats
-
-[![Wallace Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallace-sf&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## Outside of work
 
 I enjoy learning, traveling, games, swimming and cinema. I also like studying how good software architecture helps teams move faster with less friction.
