@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://github.com/wallace-sf/portfolio">portfolio</a> ·
+    <a href="https://wallace-ferreira.dev">portfolio</a> ·
     <a href="https://www.linkedin.com/in/wallace-silva-ferreira/">linkedin</a> ·
     <a href="https://github.com/wallace-sf">github</a>
   </samp>
